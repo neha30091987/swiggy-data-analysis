@@ -35,3 +35,6 @@ Each query is tailored to address a specific question by joining multiple tables
 Neha Sharma
 Github-nehasharma30091987
 Linkedin-https://www.linkedin.com/in/neha-sharma-dataanalyst
+
+**ACKNOWLEDGEMENT**
+I would like to thank Nitish sir for the guidance and invaluable knowledge in this project.
