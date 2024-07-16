@@ -37,4 +37,4 @@ Github-nehasharma30091987
 Linkedin-https://www.linkedin.com/in/neha-sharma-dataanalyst
 
 **ACKNOWLEDGEMENT**
-I would like to thank Nitish sir for the guidance and invaluable knowledge in this project.
+I would like to thank Nitish sir for giving me the guidance and invaluable knowledge in this project.
